@@ -1,0 +1,11 @@
+{
+  "version": "3.0.0",
+  "artifacts": [
+    {
+      "os": "linux",
+      "arch": "x86_64",
+      "artifactUrl": "https://github.com/polite0803/axinvest-plugin-release-e2e/releases/download/v3.0.0-e2e/wiki-linux-x86_64.tar.gz",
+      "sha256": "c43bacb49efce8a6a5f94cb6e5134cab01372913e01431a4f6adaeaf22432de0"
+    }
+  ]
+}
